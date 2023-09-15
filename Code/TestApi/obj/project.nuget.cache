@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mueKt2qC0Dp+Ne4GAHQ951/KOBz92b+LI6deZHZmVltDDEckwmipDT8DI6sn2VoDl2dsidUYKvg/OJzaiZBCbA==",
+  "success": true,
+  "projectFilePath": "C:\\ps\\interviews\\realworldone\\DevOpsTest\\Code\\TestApi\\TestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prgou\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512",
+    "C:\\Users\\prgou\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\prgou\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\prgou\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
